@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\bin\Debug\Sort-O-Matic-Project.exe.config
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\bin\Debug\Sort-O-Matic-Project.exe
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\bin\Debug\Sort-O-Matic-Project.pdb
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort-O-Matic-Project.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort_O_Matic_Project.Form1.resources
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort_O_Matic_Project.Properties.Resources.resources
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort-O-Matic-Project.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort-O-Matic-Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort-O-Matic-Project.exe
+C:\Users\Asus\source\repos\Sort-O-Matic-Project\Sort-O-Matic-Project\obj\Debug\Sort-O-Matic-Project.pdb
